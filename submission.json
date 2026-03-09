@@ -1,0 +1,7 @@
+{
+  "prompt": "An endless plain stretching to the horizon, photographed from low aerial height. The left half is covered so densely with small white stone grave markers for children — tiny, uniform, packed edge to edge — that the ground is invisible beneath them. Moving rightward, the markers thin gradually then dramatically, until the right quarter is open sunlit green meadow with almost none remaining. A single living child stands far right, back to camera, looking at the open space ahead. Photorealistic. Golden hour light. No text. No axes. No labels. No charts. Cinematic wide aspect ratio. The density gradient IS the data — grief on the left, hope on the right. Magazine cover quality.",
+  "model": "DALL-E 3",
+  "dataset_name": "Child Mortality Rate 1800–2020, Our World in Data",
+  "dataset_url": "https://ourworldindata.org/child-mortality",
+  "insight": "In 1800, 43% of children died before age 5. Today under 4% do — the largest reduction in preventable death in human history, invisible in its scale."
+}
